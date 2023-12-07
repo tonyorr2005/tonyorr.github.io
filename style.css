@@ -9,7 +9,7 @@
 }
 
 h1:hover{
-	transform: translateX(42px);
+	transform: translateY(42px);
 
 }
 @media (max-width: 600px){
